@@ -1,17 +1,21 @@
 {
-    "name": "binarytorch/larecipe",
+    "name": "metalcamp/larecipe",
     "description": "Generate gorgeous recipes for your Laravel applications using MarkDown",
     "keywords": ["laravel", "markdown", "docs", "documentation", "api"],
     "license": "MIT",
     "type": "library",
     "support": {
-        "issues": "https://github.com/saleem-hadad/larecipe/issues",
-        "source": "https://github.com/saleem-hadad/larecipe"
+        "issues": "https://github.com/metalcamp/larecipe/issues",
+        "source": "https://github.com/metalcamp/larecipe"
     },
     "authors": [
         {
             "name": "Saleem Hadad",
             "email": "saleem@binary-torch.com"
+        },
+        {
+            "name": "Metalcamp",
+            "email": "metalcamp6@gmail.com"
         }
     ],
     "require": {
